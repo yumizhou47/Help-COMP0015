@@ -33,7 +33,7 @@ In order to be eligible to select this module, a student must â€‹be registe
 # Why we create this repository?
 To save and share our doubts and concerns about the COMP0015. 
 
-If you have any comments and questions on COMP0015 final result，you can put on this repository, you can also put 
-your codes on it if you wish.
+If you have any comments and questions on COMP0015 final result，you can put it here, you can also put 
+your codes here it if you wish.
 
 
