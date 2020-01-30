@@ -1,0 +1,147 @@
+### 1.
+
+I am not sure if I am the only person who has doubts about the results of the coursework I and II, 
+but there is a huge gap between the actual marks and my expected results.
+I don't really understand I lost nearly half marks for making several coding inefficiencies in csw2. 
+in this case, if I make 3-4 coding mistakes, would I actually get 0 marks?
+As I was expected to spend some of my own time learning this course not entirely rely on the lectures,
+I guess the coding style is entirely different among the resources online and books and
+I was never told the very standard or optimal coding style in this course, 
+this very harsh marking criterion makes no sense to me at least.
+
+I want to know how you guys did in this two coursework.
+
+
+
+### 2.
+
+Hi all, 
+While we are on this topic I would like to say that I share Yicheng Zheng's concern on this.
+I too (as well as my coding partner) am very perplexed by how I was graded in the second coursework. 
+Twelve points out of forty (i.e. 30% of the overall grade) were deducted from my grade only due 
+to what was defined in the feedback as a "minor point of improvement", and with no real explanation of such deduction. 
+
+For anyone wondering, the "minor point of improvement" has to do with how I created a set from a list, 
+and can be found in the attachment.
+I would also be interested to know whether our group's and Yicheng Zheng's are isolated 
+cases or whether a similar issue has been experienced by others too. 
+
+
+
+### 3.
+
+I have similar concerns..it does seem  that many got very low marks. 
+I got 13/25 and 18/40. (or perhaps this is how hard Computing is.)
+
+
+
+### 4.
+
+Hi everyone, 
+
+Same thing here. We lost 14 points for tiny inefficiency in the code even though our programme produces correct
+results AND we wrote additional tests. The points for improvement we got was that we could have 'generalised some 
+tasks' and written 'extra helper functions'. I just don't see how that is worth 14 points, especially in a beginner course?
+
+Seems really harsh?
+
+
+
+### 5.
+
+Hi everyone,
+
+my coding partner and I had exactly the same thing happen to us. Both assignments were graded quite harshly even though
+especially our second program performed very well. Even in the feedback it was pointed out that we had included 
+additional elements and overall written a well-functioning program. The improvement comments were minor, and the 
+lecturer had looked over our program and told us it’s all fine - or even good. Considering how vague the computing 
+grade guidelines given to us are, I find it unfair that after so much work and all the times we asked for feedback 
+before submitting, our grade is lowered drastically by things we were told were not a big issue before submitting.
+
+
+
+### 6.
+
+HI Everyone, 
+I have to say we had the same thing happen to us for the first program, 
+being graded super harshly - especially considering we weren't told we need to add anything extra than the 
+base code in the guidelines. I recommend leaving a review of the module so we can spare the future beginner coders. 
+I also agree with everyone that we had to put in way to many hours to be graded this harshly 
+( We put in enough work for 2 modules)
+
+Can we also mention the manual coding exams......
+
+
+
+### 7.
+
+Hi everyone, 
+
+I believe that the way grading works for courseworks in this module is that you get 70% if you do everything 
+that you were required without mistake. Then if you also do additional stuff you might get some extra marks. 
+In my case, I got 32/40 for coursework 2 and everything that was required in the brief was pretty much done perfectly. 
+In order for the program to be as efficient as possible I wrote 2 helper functions: 
+
+-one that would create a dictonary containing all the words in list_of_lines and the number of times each word appears, 
+which makes the calculation of the first 3 text parameters very effiecient
+
+-and one that would create a list of sentences from the list of lines, 
+which helps avoid repeating code in the last 2 functions
+
+The results for each signature were exactly the same as the ones posted by Rae on Moodle. 
+I doubt that there was any way to improve the code, as the feedback only says "In future projects 
+you could think about automating your testing. Well done, keep coding!" at the points for improvement section.
+
+On top of this I created two additional functionalities:
+
+-one that would print the first N(input by user) most frequent words in the text, 
+and the number of times each of these appear
+
+-and one that would find all positions of a given word in a text (exact line and column as it appears when you open the 
+mystery texts with notepad). This wasn't easy at all to do.
+
+Yet I still managed to somehow lose 20% of the grade. For the first coursework I didn't 
+write any additional functionalities yet everything else was mostly fine, with 2 tiny points of improvement mentioned, 
+and i got 64%, yet I definitely didn't screw up a third of the coursework.
+
+Hence I believe you probably only get 70% for if you do what you were required without mistakes.
+
+
+### 8.
+
+Exact same here. My partner and I were expecting strong firsts for both of our courseworks, 
+because we satisfied and qualified fully, according to what we were told to do - both programs worked perfectly, 
+achieved all of the requirements of the coursework, the code was efficient AND we made additional features 
+to bring our grade up, for both courseworks - tests and other features. We were expecting 75+ but received 65 
+for the second coursework and something between 60-65 for the first one (can’t remember the exact mark,
+my partner submitted it). He also told me we should get our grades reviewed. 
+It seems very unfair considering we did everything we were told to do to get a first.
+
+
+
+### 9.
+
+HI guys
+
+Thank you for your reply.
+
+I have raised my concern to my department tutor(Statistical Science), and I was advised to forward my concern
+to the student representatives as there is going to have a meeting for them to discuss all the things.
+my main concerns are:
+1. Very harsh marking criterion despite this is only an lvl5 course for programming beginners.
+2. According to what I have heard from the previous year students, they didn't even have written questions on ICA. 
+It was really difficult for me to write program codes on paper after only 2-3 weeks of studying
+(maybe I am the only one who found the exercises were pretty hard, I have to search many resources online to complete it, 
+but in the meantime, I was required to write codes on paper as a beginner).
+
+Overall, this course setting and marking criterion makes me not feel this is the right course for beginners and, 
+to be honest, as a third-year student, this course has caused such a big problem for me to reach the requirement 
+of my conditional offer(I would rather choose an lvl6 course instead).
+
+I would advise you guys who share the same concern as me, get in touch with your department student 
+representative as they are holding a meeting tmr. Hopefully, they will find out whether we are just isolated 
+cases(we are just bad) or they will make some further arrangements).
+
+Many thanks
+
+YIcheng
